@@ -3,3 +3,4 @@
 ![most_anime_genre](https://github.com/user-attachments/assets/5d3e0c03-e340-49aa-87f5-1a858298f782)
 ![univariate](https://github.com/user-attachments/assets/8ca193ea-6957-4ca4-96e3-9b6599e872d3)
 
+<img width="1655" height="953" alt="Screenshot 2025-07-12 131832" src="https://github.com/user-attachments/assets/3d9e149d-c506-4aa8-88d6-8efff9d668f4" />
